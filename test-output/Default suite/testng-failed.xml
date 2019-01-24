@@ -7,7 +7,7 @@
         <methods>
           <include name="afterMethod"/>
           <include name="beforeMethod"/>
-          <include name="f"/>
+          <include name="testCurrentUrl"/>
         </methods>
       </class> <!-- com.atmecs.automation.FirstTestNg.LearnTestNg -->
     </classes>

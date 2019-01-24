@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10884" started-at="2019-01-24T10:06:48Z" finished-at="2019-01-24T10:06:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10884" started-at="2019-01-24T10:06:48Z" finished-at="2019-01-24T10:06:58Z">
+      <class name="com.atmecs.automation.FirstTestNg.LearnTestNg">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.atmecs.automation.FirstTestNg.LearnTestNg@46d56d67]" name="beforeMethod" is-config="true" duration-ms="8450" started-at="2019-01-24T10:06:48Z" finished-at="2019-01-24T10:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.atmecs.automation.FirstTestNg.LearnTestNg@46d56d67]" name="f" duration-ms="1613" started-at="2019-01-24T10:06:56Z" finished-at="2019-01-24T10:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.atmecs.automation.FirstTestNg.LearnTestNg@46d56d67]" name="afterMethod" is-config="true" duration-ms="803" started-at="2019-01-24T10:06:58Z" finished-at="2019-01-24T10:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.atmecs.automation.FirstTestNg.LearnTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
